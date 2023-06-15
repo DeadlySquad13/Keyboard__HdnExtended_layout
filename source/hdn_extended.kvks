@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>hdn_extended</kbdname>
+    <flags>
+      <usealtgr/>
+    </flags>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="RCRA">
+      <key vkey="K_F1">!</key>
+      <key vkey="K_F2">'</key>
+      <key vkey="K_F4">;</key>
+      <key vkey="K_F6">:</key>
+      <key vkey="K_F7">?</key>
+      <key vkey="K_F8">*</key>
+      <key vkey="K_F9">(</key>
+      <key vkey="K_F10">)</key>
+      <key vkey="K_F13">-</key>
+      <key vkey="K_F14">=</key>
+      <key vkey="K_F15">[</key>
+      <key vkey="K_F16">]</key>
+      <key vkey="K_F17">&lt;</key>
+      <key vkey="K_F18">&gt;</key>
+      <key vkey="K_F19">\</key>
+      <key vkey="K_F20">/</key>
+      <key vkey="K_F21">.</key>
+    </layer>
+    <layer shift="SRCRA">
+      <key vkey="K_F2">"</key>
+      <key vkey="K_F6">^</key>
+      <key vkey="K_F7">&amp;</key>
+      <key vkey="K_F14">+</key>
+      <key vkey="K_F15">{</key>
+      <key vkey="K_F16">}</key>
+      <key vkey="K_F19">|</key>
+    </layer>
+    <layer shift="S">
+      <key vkey="K_1">!</key>
+      <key vkey="K_QUOTE">J</key>
+      <key vkey="K_3">#</key>
+      <key vkey="K_4">$</key>
+      <key vkey="K_5">%</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_9">&lt;</key>
+      <key vkey="K_0">&gt;</key>
+      <key vkey="K_EQUAL">|</key>
+      <key vkey="K_COLON">H</key>
+      <key vkey="K_COMMA">O</key>
+      <key vkey="K_PERIOD">Y</key>
+      <key vkey="K_SLASH">K</key>
+      <key vkey="K_2">@</key>
+      <key vkey="K_A">R</key>
+      <key vkey="K_B">B</key>
+      <key vkey="K_C">L</key>
+      <key vkey="K_D">N</key>
+      <key vkey="K_E">M</key>
+      <key vkey="K_F">T</key>
+      <key vkey="K_G">G</key>
+      <key vkey="K_H">;</key>
+      <key vkey="K_I">Q</key>
+      <key vkey="K_J">A</key>
+      <key vkey="K_K">E</key>
+      <key vkey="K_L">I</key>
+      <key vkey="K_M">U</key>
+      <key vkey="K_N">+</key>
+      <key vkey="K_O">[</key>
+      <key vkey="K_P">]</key>
+      <key vkey="K_Q">W</key>
+      <key vkey="K_R">P</key>
+      <key vkey="K_S">S</key>
+      <key vkey="K_T">V</key>
+      <key vkey="K_U">:</key>
+      <key vkey="K_V">D</key>
+      <key vkey="K_W">F</key>
+      <key vkey="K_X">C</key>
+      <key vkey="K_Y">*</key>
+      <key vkey="K_Z">X</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_LBRKT">Z</key>
+      <key vkey="K_BKSLASH">}</key>
+      <key vkey="K_RBRKT">{</key>
+      <key vkey="K_BKQUOTE">~</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">j</key>
+      <key vkey="K_COMMA">o</key>
+      <key vkey="K_HYPHEN">=</key>
+      <key vkey="K_PERIOD">y</key>
+      <key vkey="K_SLASH">k</key>
+      <key vkey="K_0">0</key>
+      <key vkey="K_1">1</key>
+      <key vkey="K_2">2</key>
+      <key vkey="K_3">3</key>
+      <key vkey="K_4">4</key>
+      <key vkey="K_5">5</key>
+      <key vkey="K_6">6</key>
+      <key vkey="K_7">7</key>
+      <key vkey="K_8">8</key>
+      <key vkey="K_9">9</key>
+      <key vkey="K_COLON">h</key>
+      <key vkey="K_EQUAL">\</key>
+      <key vkey="K_LBRKT">z</key>
+      <key vkey="K_BKSLASH">)</key>
+      <key vkey="K_RBRKT">(</key>
+      <key vkey="K_BKQUOTE">`</key>
+      <key vkey="K_A">r</key>
+      <key vkey="K_B">b</key>
+      <key vkey="K_C">l</key>
+      <key vkey="K_D">n</key>
+      <key vkey="K_E">m</key>
+      <key vkey="K_F">t</key>
+      <key vkey="K_G">g</key>
+      <key vkey="K_H">,</key>
+      <key vkey="K_I">q</key>
+      <key vkey="K_J">a</key>
+      <key vkey="K_K">e</key>
+      <key vkey="K_L">i</key>
+      <key vkey="K_M">u</key>
+      <key vkey="K_N">-</key>
+      <key vkey="K_O">"</key>
+      <key vkey="K_P">'</key>
+      <key vkey="K_Q">w</key>
+      <key vkey="K_R">p</key>
+      <key vkey="K_S">s</key>
+      <key vkey="K_T">v</key>
+      <key vkey="K_U">.</key>
+      <key vkey="K_V">d</key>
+      <key vkey="K_W">f</key>
+      <key vkey="K_X">c</key>
+      <key vkey="K_Y">/</key>
+      <key vkey="K_Z">x</key>
+    </layer>
+  </encoding>
+</visualkeyboard>

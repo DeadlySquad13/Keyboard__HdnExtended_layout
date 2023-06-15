@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\hdn_extended.kpj</path>
+    <file ID="id_c1ec7b738edb9568baa73b4dcd00ea3d" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_c1ec7b738edb9568baa73b4dcd00ea3d</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_b186aa4579d7f0c1d9a9a1c45d637d2a</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4d4287a2828deef8992e62356887b640</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\hdn_extended.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0458df0c82de9e4c30a104041534e691</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_639f09486a8f37c73143672cbbcecbdc</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\..\build\hdn_extended.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b14c342e02012f9cfa297de1e3bb72a7</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\..\build\hdn_extended.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>hdn_extended.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
