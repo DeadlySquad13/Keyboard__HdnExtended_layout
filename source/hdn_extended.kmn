@@ -148,3 +148,15 @@ c Universal Layout Mappings.
 + [RCTRL RALT K_F20] > U+002F
 
 + [RCTRL RALT K_F21] > U+002E
+
+c - Without Fs.
++ [RCTRL RALT K_Q] > U+0021
+
++ [RCTRL RALT K_W] > U+0027
++ [RCTRL RALT SHIFT K_W] > U+0022
+
+c test
++ [CTRL ALT K_F1] > U+0021
+
++ [CTRL ALT K_F2] > U+0027
++ [CTRL ALT SHIFT K_F2] > U+0022
