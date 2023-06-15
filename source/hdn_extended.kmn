@@ -171,8 +171,9 @@ c - Without Fs.
 
 + [RCTRL RALT K_O] > U+002D
 
-+ [RCTRL RALT K_P] > U+003D
-+ [RCTRL RALT SHIFT K_P] > U+002B
+c P was conflicting with Kaspersky shortcut.
++ [RCTRL RALT K_M] > U+003D
++ [RCTRL RALT SHIFT K_M] > U+002B
 
 + [RCTRL RALT K_LBRKT] > U+005B
 + [RCTRL RALT SHIFT K_LBRKT] > U+007B
