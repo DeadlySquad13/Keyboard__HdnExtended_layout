@@ -16,7 +16,7 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">hdn extended</Name>
+    <Name URL="">Hands Down Neu Extended</Name>
     <Copyright URL="">© DeadlySquad13</Copyright>
     <Author URL="">DeadlySquad13</Author>
     <Version URL=""></Version>
@@ -49,10 +49,12 @@
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>hdn extended</Name>
+      <Name>Hands Down Neu Extended</Name>
       <ID>hdn_extended</ID>
       <Version>1.0</Version>
-      <Languages/>
+      <Languages>
+        <Language ID="en-US">English (United States)</Language>
+      </Languages>
     </Keyboard>
   </Keyboards>
   <Strings/>

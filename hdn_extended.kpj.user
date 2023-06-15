@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\hdn_extended.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
     <file ID="id_c1ec7b738edb9568baa73b4dcd00ea3d" Expanded="1"/>
+    <file ID="id_b186aa4579d7f0c1d9a9a1c45d637d2a" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
@@ -63,6 +65,12 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>hdn_extended.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>hdn_extended.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\hdn_extended\source\hdn_extended.kmn</FullPath>
